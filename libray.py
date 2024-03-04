@@ -1,5 +1,5 @@
 # This is a library management system
-# using sqlite3 to create to tables that stores books abd borrowed books in a library
+# using sqlite3 to create tables that stores books and borrowed books in a library
 # This system is effective in inventory management of the books
 
 
@@ -63,7 +63,7 @@ def view_stock():
     data = cursor.fetchall()
     print(data)
 
-# This function is updates the book table
+# This function updates the book table
 def edit_book():
     book_id = input('please enter the book id: ')
     new_title = input('please enter the new book title: ')
