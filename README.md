@@ -16,6 +16,7 @@ Add Books: Use the provided functions to add books to the library's inventory.
 Borrow Books: Allow users to borrow books from the library by updating the status of the book in the database.
 Return Books: When users return borrowed books, update the status of the book in the database accordingly.
 Query Information: Use SQL queries to retrieve information about available books, borrowed books, borrowers, etc., from the database.
+
 Requirements:
 
 Python 3.x
