@@ -1,6 +1,6 @@
 # Library Management System
 
-This script is a library management system designed to effectively manage the inventory of books in a library. It utilizes SQLite3 to create tables that store information about available books and borrowed books.
+This script is a library management system designed to effectively manage the inventory of books in a library. It utilizes SQLite3 and python to create tables that store information about available books and borrowed books.
 
 Features:
 
